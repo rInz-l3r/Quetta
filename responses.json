@@ -1,0 +1,25 @@
+{
+    "introduction":{
+        "subject":"[Quetta-Automated] Introduction",
+        "body":"Hello! I'm Quetta, a Python bot using Google's Gmail API. You are now a registered user! If you would like to know more about what I can do, send another message with 'help' in the body.\n\n- Q"
+    },
+    "deprecated":{
+        "subject":"[Quetta-Automated] Deprecated",
+        "body":"Hello again, my features are still under development. Hopefully I can be of more use in the future. See you soon!\n\n- Q"
+    },
+    "shutdown":{
+        "subject":"[Quetta-Automated] Shutdown",
+        "body": "Shutdown command received.\n\n- Q"
+    },
+    "manual_update":{
+        "subject": "[Quetta-Automated] Manual_Update",
+        "body": "Manual update command received.\n\n- Q"
+    },
+    "automatic_update":{
+        "subject": "[Quetta-Automated] Automatic_Update",
+        "body": "Automatic update command received.\n\n- Q"
+    },
+    "feature_notification":{
+        "subject": "[Quetta-Automated] Feature Notification"
+    }
+}
