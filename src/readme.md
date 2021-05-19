@@ -1,0 +1,1 @@
+This folder is intended to be empty. This is where you will place your credentials JSON for first time load.

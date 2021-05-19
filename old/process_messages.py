@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 
-from db_manage import DbManage
+from src.db_manage import DbManage
 from send_messages import SendMessages
 
 
