@@ -43,6 +43,9 @@ class Quetta(GmailApi, DbManage):
     async def start(self):
        result = await self.checkMessages()
 
+    async def restart(self):
+        
+
 asyncio.run(Quetta().start())
 
 
